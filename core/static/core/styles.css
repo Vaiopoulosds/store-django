@@ -20,3 +20,19 @@ body {
   width: 100px;
   height: 100px;
 }
+
+.header {
+  color: azure;
+  position: absolute;
+  top: 50px;
+}
+.footer-menu{
+  position: absolute;
+  bottom: 100px;
+}
+
+.link{
+  color: azure;
+  font-size: 30px;
+  text-decoration: none;
+}
