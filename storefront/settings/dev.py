@@ -19,7 +19,7 @@ DATABASES = {
         'NAME': 'storefront3',
         'HOST': 'mysql',
         'USER': 'root',
-        'PASSWORD': 'Ria9585956362'
+        'PASSWORD': 'mypswd'
     }
 }
 
